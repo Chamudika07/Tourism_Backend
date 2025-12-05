@@ -1,3 +1,12 @@
 fastapi==0.123.5
 uvicorn==0.38.0
 python-dotenv==1.2.1
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.10
+alembic==1.14.0
+pydantic==2.12.5
+pydantic-settings==2.2.0
+pydantic[email]==2.12.5
+bcrypt==4.2.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
